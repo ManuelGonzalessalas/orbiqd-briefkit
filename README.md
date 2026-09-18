@@ -1,5 +1,7 @@
 # 🎉 orbiqd-briefkit - Simplify Your Coding Workflows
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/manuelgonzalessalas-orbiqd-briefkit)
+
 ## 🚀 Getting Started
 Welcome to orbiqd-briefkit! This application helps you manage multiple coding tools from one easy interface. You can run everything locally without needing any API keys. 
 
